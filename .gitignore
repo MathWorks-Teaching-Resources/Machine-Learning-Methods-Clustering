@@ -1,0 +1,39 @@
+# List of untracked files to ignore
+
+# Autosave files
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# MATLAB Drive
+*.MATLABDriveTag
+
+# Compiled MEX files
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Deployable archives
+*.ctf
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink cache folder
+Utilities/SimulinkCache/*
+
+# Code generation file
+*.eep
+*.elf
+*.hex
+*.bin
+
+# Cache files
+*.slxc
+
+# Cloud based storage dotfile
+*.MATLABDriveTag
