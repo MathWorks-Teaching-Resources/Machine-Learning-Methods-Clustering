@@ -3,7 +3,11 @@
 # <span style="color:rgb(213,80,0)">Machine Learning Methods: Clustering</span>
 <a name="H_053613DF"></a>
 
-<a href="https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj"><img src="Images/image_1.png" width="154" alt="Open in MATLAB Online button"></a> or <a href="https://www.mathworks.com/matlabcentral/fileexchange/REPO_NAME"><img src="Images/image_6.png" width="129" alt="File Exchange logo"></a>
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj)
+
+**Curriculum Module**
+
+_Created with R2023b. Compatible with R2023b and later releases._
 
 # Information
 
@@ -15,7 +19,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. Clustering Basics covers distance-based, density based, and probabilistic algorithms including k-means, DBSCAN, and GMMs. It also includes examples of applying each algorithm to a data set containing beak measurements for different species of penguins.
 
 
-The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/image_0.png" width="19" alt="Stop icon"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
+The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/image_0.png" width="19" alt="image_0.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
 ## Contact Us
 
@@ -31,14 +35,14 @@ This module assumes knowledge of basic statistics and probability, including Gau
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the <a href="https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj"><img src="Images/image_1.png" width="154" alt="Open in MATLAB Online button"></a> link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the  [<img src="Images/image_1.png" width="154" alt="image_1.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj)  link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
 Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double-click on [MLMethodsClustering.prj](MLMethodsClustering.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
-Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the **Home** tab and select  <img src="Images/image_2.png" width="16" alt="Add-Ons icon"> **Add-Ons** > **Get Add-Ons**. 
+Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add-On Explorer. To install an add-on, go to the **Home** tab and select  <img src="Images/image_2.png" width="16" alt="image_2.png"> **Add-Ons** > **Get Add-Ons**. 
 
 <a name="H_E850B4FF"></a>
 ## Products
@@ -48,101 +52,42 @@ MATLAB® is used throughout. Tools from the Statistics and Machine Learning Tool
 <a name="H_E8C62B23"></a>
 # Scripts
 
-## [**ClusteringIntro.mlx**](Scripts/ClusteringIntro.mlx) 
-<p style="text-align:left"><img src="Images/image_3.png" width="251" alt="ClusteringIntro main image"></p>
+## [**ClusteringIntro.mlx**](ClusteringIntro.mlx) 
+|      |      |      |
+| :-- | :-- | :-- |
+| <img src="Images/image_3.png" width="251" alt="image_3.png"> | **In this script, students will...**  -  Learn what clustering is and what types of problems it can be applied to  -  Explore a step-by-step example of using k-means to cluster random data  -  Apply k-means to a real world data set, optimizing parameters along the way | **Academic disciplines**  -  Machine Learning  -  Artificial Intelligence  |
+|      |      |       |
 
-**In this script, students will...**
-
-
- $\bullet$ Learn what clustering is and what types of problems it can be applied to
-
-
- $\bullet$ Explore a step-by-step example of using k-means to cluster random data
-
-
- $\bullet$ Apply k-means to a real world data set, optimizing parameters along the way
-
-**Academic disciplines**
-
-
- $\bullet$ Machine Learning
-
-
- $\bullet$ Artificial Intelligence
-
-
-
-## [**ClusteringMethods.mlx**](Scripts/ClusteringMethods.mlx) 
-<p style="text-align:left"><img src="Images/image_4.png" width="209" alt="ClusteringMethods main image"></p>
-
-**In this script, students will...**
-
-
- $\bullet$ Learn about two more clustering methods: DBSCAN and GMMs
-
-
- $\bullet$ Work through step-by-step examples of applying each algorithm to an example data set
-
-
- $\bullet$ Cluster the same real world data set using each method, considering their pros and cons
-
-
- $\bullet$ Learn about a variety of methods to evaluate clustering results
-
-**Academic disciplines**
-
-
- $\bullet$ Machine Learning
-
-
- $\bullet$ Artificial Intelligence
-
-
- $\bullet$ Statistics
-
-
+## [**ClusteringMethods.mlx**](ClusteringMethods.mlx) 
+|      |      |      |
+| :-- | :-- | :-- |
+| <img src="Images/image_4.png" width="209" alt="image_4.png"> | **In this script, students will...**  -  Learn about two more clustering methods: DBSCAN and GMMs  -  Work through step-by-step examples of applying each algorithm to an example data set  -  Cluster the same real world data set using each method, considering their pros and cons  -  Learn about a variety of methods to evaluate clustering results | **Academic disciplines**  -  Machine Learning  -  Artificial Intelligence  -  Statistics  |
+|      |      |       |
 
 ## Related Courseware Modules
 <a name="H_792FBE0F"></a>
 ## [**Regression Basics**](https://www.mathworks.com/matlabcentral/fileexchange/93435-regression-basics)
-<p style="text-align:left"><img src="Images/image_5.png" width="171" alt="Regression Basics main image"></p>
-
-**Available on:**
-
-
-<a href="https://www.mathworks.com/matlabcentral/fileexchange/93435-regression-basics"><img src="Images/image_6.png" width="129" alt="File Exchange logo"></a>
-
-<a href="https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Regression-Basics&project=RegressionBasics.prj"><img src="Images/image_7.png" width="130" alt="Open in MATLAB Online button"></a>
-
-
-[GitHub](https://github.com/MathWorks-Teaching-Resources/Regression-Basics)
-
-
+|      |      |
+| :-- | :-- |
+| <img src="Images/image_5.png" width="171" alt="image_5.png"> | **Available on:** [<img src="Images/image_6.png" width="129" alt="image_6.png">](https://www.mathworks.com/matlabcentral/fileexchange/93435-regression-basics)  [<img src="Images/image_7.png" width="130" alt="image_7.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Regression-Basics&project=RegressionBasics.prj) [GitHub](https://github.com/MathWorks-Teaching-Resources/Regression-Basics)  |
+|      |       |
 
 <a name="H_6E8B4D8B"></a>
 <a name="H_61EB2540"></a>
 ## [**Machine Learning for Regression**](https://www.mathworks.com/matlabcentral/fileexchange/95903-machine-learning-for-regression)
-<p style="text-align:left"><img src="Images/image_8.png" width="171" alt="Machine Learning for Regression main image"></p>
-
-**Available on:**
-
-
-<a href="https://www.mathworks.com/matlabcentral/fileexchange/95903-machine-learning-for-regression"><img src="Images/image_9.png" width="129" alt="File Exchange logo"></a>
-
-<a href="https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-for-Regression&project=MLforRegression.prj"><img src="Images/image_10.png" width="130" alt="Open in MATLAB Online button"></a>
-
-
-[GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)
-
-
+|      |      |
+| :-- | :-- |
+| <img src="Images/image_8.png" width="171" alt="image_8.png"> | **Available on:** [<img src="Images/image_9.png" width="129" alt="image_9.png">](https://www.mathworks.com/matlabcentral/fileexchange/95903-machine-learning-for-regression)  [<img src="Images/image_10.png" width="130" alt="image_10.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-for-Regression&project=MLforRegression.prj) [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-for-Regression)  |
+|      |       |
 
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
 # Educator Resources
-   -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
+-  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 
 
 Copyright 2023 The MathWorks™, Inc
+
 
 
