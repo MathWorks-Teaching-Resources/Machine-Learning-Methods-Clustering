@@ -1,4 +1,3 @@
-
 <a name="T_DEF03274"></a>
 # <span style="color:rgb(213,80,0)">Machine Learning Methods: Clustering</span>
 <a name="H_053613DF"></a>
@@ -16,7 +15,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 <a name="H_F00D98E4"></a>
 ## Background
 
-You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. Clustering Basics covers distance-based, density based, and probabilistic algorithms including k-means, DBSCAN, and GMMs. It also includes examples of applying each algorithm to a data set containing beak measurements for different species of penguins.
+You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. This module covers distance-based, density based, and probabilistic algorithms including k-means, DBSCAN, and GMMs. It also includes examples of applying each algorithm to a data set containing beak measurements for different species of penguins.
 
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/image_0.png" width="19" alt="image_0.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
@@ -52,13 +51,13 @@ MATLAB® is used throughout. Tools from the Statistics and Machine Learning Tool
 <a name="H_E8C62B23"></a>
 # Scripts
 
-## [**ClusteringIntro.mlx**](ClusteringIntro.mlx) 
+## [**ClusteringIntro.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=ClusteringIntro.mlx) 
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="251" alt="image_3.png"> | **In this script, students will...**  -  Learn what clustering is and what types of problems it can be applied to  -  Explore a step-by-step example of using k-means to cluster random data  -  Apply k-means to a real world data set, optimizing parameters along the way | **Academic disciplines**  -  Machine Learning  -  Artificial Intelligence  |
 |      |      |       |
 
-## [**ClusteringMethods.mlx**](ClusteringMethods.mlx) 
+## [**ClusteringMethods.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=ClusteringMethods.mlx) 
 |      |      |      |
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="209" alt="image_4.png"> | **In this script, students will...**  -  Learn about two more clustering methods: DBSCAN and GMMs  -  Work through step-by-step examples of applying each algorithm to an example data set  -  Cluster the same real world data set using each method, considering their pros and cons  -  Learn about a variety of methods to evaluate clustering results | **Academic disciplines**  -  Machine Learning  -  Artificial Intelligence  -  Statistics  |
