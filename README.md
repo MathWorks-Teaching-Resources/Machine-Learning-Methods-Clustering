@@ -24,7 +24,7 @@ The instructions inside the live scripts will guide you through the exercises an
 
 ## Contact Us
 
-Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you have a question or would like to provide any feedback.
+Contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com) if you have a question or would like to provide any feedback.
 
 
 ## Prerequisites
@@ -52,8 +52,6 @@ MATLAB® is used throughout. Tools from the Statistics and Machine Learning Tool
 
 
 # Scripts
-
- *\* If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)
 
 ## [**ClusteringIntro.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=ClusteringIntro.mlx) 
 |      |      |      |
@@ -89,6 +87,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 
 
-Copyright 2023 The MathWorks™, Inc
+Copyright 2025 The MathWorks, Inc
 
 
