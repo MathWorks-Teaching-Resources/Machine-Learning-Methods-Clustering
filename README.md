@@ -5,6 +5,7 @@
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering&project=MLMethodsClustering.prj&file=README.mlx)
 
 [![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Machine-Learning-Methods-Clustering/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Machine-Learning-Methods-Clustering)
+
 **Curriculum Module**
 
 _Created with R2024b. Compatible with R2024b and later releases._
