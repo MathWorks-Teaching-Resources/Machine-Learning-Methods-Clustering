@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Info File="Utilities/ProjectShutdown.m" GroupUUID="default" Icon="" Name="ProjectShutdown" Type="Shutdown" Visible="0">
-    <Extension Name="ShutdownPrev" Value="HEAD"/>
+    <Extension Name="ShutdownPrev" Value="9cd726a3-33be-453f-a2f4-feb699074726"/>
 </Info>
